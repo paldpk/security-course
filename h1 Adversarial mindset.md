@@ -41,6 +41,14 @@ Cyber Intrusion Phases: The cybersecurity kill chain has seven stages:
 * Actions on Objectives: Achieving goals like data theft or network infiltration.
 * This model allows defenders to understand and disrupt each stage of an intrusion, preventing attackers from completing their objectives by intervening at any phase.
 
+# Ep 138: The Mimics of Punjab Darknet Diaries
+In this episode of darknet diaries scammers tried to use the phone channel to phone the victim acting as the relatives of the victim and get money out of them in favour of helping the family member. 
+
+Tarun woke up one morning to missed calls from his cousin and sister. When he called his sister back, she was panicked and told him to speak to his cousin. Upon calling, Tarun’s cousin asked if he was okay, explaining that he had received a call from someone impersonating Tarun, claiming he was in jail and needed money. Concerned, his cousin had quickly sent money, assuming Tarun was in trouble.
+
+Although Tarun wasn’t at fault, he decided to reimburse his cousin for the lost money. Reflecting on the incident, Jack noted that scams like these often target family members, playing on their instinct to help loved ones in distress. He highlighted the rise of AI-based scams that clone voices to make impersonation more believable. Tarun later saw similar scams circulating on social media, realizing his family wasn’t alone in experiencing this deception.
+
+
 
 
 
