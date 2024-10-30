@@ -14,6 +14,9 @@ Chnage network setting as following
 After adjusting the network and disk property  click on the  start button to start the virtual and do the ping to check network is working 
 <img width="891" alt="image" src="https://github.com/user-attachments/assets/9024f4e6-e0ed-49a8-82ec-fb26f6a984e1">
 
+<img width="823" alt="image" src="https://github.com/user-attachments/assets/f2e32363-bab3-4116-beaf-6781c5301810">
+
+
 
 
 
