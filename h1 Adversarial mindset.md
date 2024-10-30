@@ -51,6 +51,13 @@ Tarun woke up one morning to missed calls from his cousin and sister. When he ca
 Although Tarun wasn’t at fault, he decided to reimburse his cousin for the lost money. Reflecting on the incident, Jack noted that scams like these often target family members, playing on their instinct to help loved ones in distress. He highlighted the rise of AI-based scams that clone voices to make impersonation more believable. Tarun later saw similar scams circulating on social media, realizing his family wasn’t alone in experiencing this deception.
 
 
+* MITRE ATT&CK FAQ is at https://attack.mitre.org/resources/faq/
+* ATT&CK Enterprise Matrix is at https://attack.mitre.org/matrices/enterprise/
+* Tactic refers to the overall reason that the attacker is trying to perform an action (technique), and answers the question "why". 
+* In the ATT&CK Enterprise Matrix examples of tactics are e.g. Reconnaissance, Initial Access, Defence Evasion and Lateral Movement
+* A technique and a sub-technique refers to a way an attacker could achieve the goals of a tactic. Examples include Active Scanning for the tactic Reconnaissance, Phishing and Supply Chain Compromise for the tactic Initial Access, Access Token Manipulation and Direct Volume Access for Defense Evasion and Exploitation of Remote Services for Lateral Movement
+* A procedure is the specific implementation of a technique. For Active Scanning it could be a port scan to find open ports and services, for Phishing it could include crafting a legitimate-looking e-mail and linking it to a malicious website, and for Exploitation of Remote Services it could include using file shares to distribute malicious payloads across the network using shared credentials.
+The matrix is relatively straightforward and the abstraction layers seem useful to group similar concepts into one. Even though a kill chain is not dependent on all tactics, a good cybersecurity posture should at the very least consider each of them and whether or not the various techniques should be (further) mitigated in the environment.
 
 
 
