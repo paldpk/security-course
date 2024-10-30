@@ -17,6 +17,16 @@ After adjusting the network and disk property  click on the  start button to sta
 <img width="823" alt="image" src="https://github.com/user-attachments/assets/f2e32363-bab3-4116-beaf-6781c5301810">
 
 
+# Cyber kill Chain analysis summary
+ Malicious users have targeted global networks from the beginning, initially through self-propagating code like viruses and worms.
+ Advanced Persistent Threats (APTs), focused on data theft for economic or military gain, are now one of the largest risks, especially in certain industries.
+ Traditional cybersecurity defenses like anti-virus and firewalls are insufficient against APTs, as they assume threats are automated and fixable.
+ APT actors leverage sophisticated tools, zero-day exploits, and customized malware that traditional defenses can’t detect, maintaining prolonged access.
+ To combat APTs, a "kill chain" framework is proposed to analyze and disrupt the sequential stages of an attack.
+
+
+
+
 
 
 
