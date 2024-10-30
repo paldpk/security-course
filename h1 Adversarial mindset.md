@@ -23,7 +23,11 @@ After adjusting the network and disk property  click on the  start button to sta
  Traditional cybersecurity defenses like anti-virus and firewalls are insufficient against APTs, as they assume threats are automated and fixable.
  APT actors leverage sophisticated tools, zero-day exploits, and customized malware that traditional defenses can’t detect, maintaining prolonged access.
  To combat APTs, a "kill chain" framework is proposed to analyze and disrupt the sequential stages of an attack.
-
+# Intelligence-driven Computer Network Defense
+This strategy focuses on understanding adversaries—analyzing their capabilities, objectives, methods, and limitations—to address cyber risks effectively.
+It involves a continuous process of using indicators from past intrusions to detect and analyze new threats, treating intrusions as multi-phase events rather than isolated incidents.
+The kill chain model segments intrusions into phases, allowing defenders to disrupt any stage to thwart adversaries and prevent them from reaching their objectives
+This model increases the cost and difficulty for attackers, showing that defenders, with proactive intelligence, can hold an advantage over persistent threats.
 
 
 
