@@ -50,7 +50,7 @@ Tarun woke up one morning to missed calls from his cousin and sister. When he ca
 
 Although Tarun wasn’t at fault, he decided to reimburse his cousin for the lost money. Reflecting on the incident, Jack noted that scams like these often target family members, playing on their instinct to help loved ones in distress. He highlighted the rise of AI-based scams that clone voices to make impersonation more believable. Tarun later saw similar scams circulating on social media, realizing his family wasn’t alone in experiencing this deception.
 
-#Tactic Technique and Procedure
+ # Tactic Technique and Procedure
 In the context of MITRE ATT&CK, "tactic," "technique," and "procedure" represent three levels of granularity in how adversaries conduct cyber operations, breaking down the steps, methods, and specific actions taken during an attack.
 
 * MITRE ATT&CK FAQ is at https://attack.mitre.org/resources/faq/
