@@ -29,6 +29,18 @@ It involves a continuous process of using indicators from past intrusions to det
 The kill chain model segments intrusions into phases, allowing defenders to disrupt any stage to thwart adversaries and prevent them from reaching their objectives
 This model increases the cost and difficulty for attackers, showing that defenders, with proactive intelligence, can hold an advantage over persistent threats.
 
+The kill chain model has been adapted for cybersecurity, where an attacker must progress through specific phases to achieve objectives within a targeted network.
+Cyber Intrusion Phases: The cybersecurity kill chain has seven stages:
+
+Reconnaissance: Gathering information on targets.
+Weaponization: Creating a payload (e.g., malware).
+Delivery: Transmitting the payload via email, websites, or USB.
+Exploitation: Triggering the payload, often through vulnerabilities.
+Installation: Installing malware for continued access.
+Command and Control (C2): Establishing a communication channel to control the infected system.
+Actions on Objectives: Achieving goals like data theft or network infiltration.
+This model allows defenders to understand and disrupt each stage of an intrusion, preventing attackers from completing their objectives by intervening at any phase.
+
 
 
 
