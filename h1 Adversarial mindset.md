@@ -1,5 +1,5 @@
-# Installing Debian debian-live-12.7.0-amd64-cinnamon image  on MAC OS Silicon M1 host using UTM
-Download latest debian from https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/
+# Installing Debian 12  on MAC OS Silicon M1 host using UTM
+
 Download latest UTM app on https://mac.getutm.app/gallery/archlinux-arm click on download it should bring the app. 
 Afer downloading select the browse UTM galerry to select the OS Version you need to install
 <img width="888" alt="image" src="https://github.com/user-attachments/assets/4361e785-1b2a-45d1-8639-ee5140ab4037">
