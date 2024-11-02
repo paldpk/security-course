@@ -27,3 +27,8 @@ There are two types of attacks agaisnt protocols Active vs passive attacks.
 Someone not involved in the protocol can eavesdrop on some or all of the protocol. This is called a passive attack, because the attacker does not affect the protocol.
 Alternatively, an attacker could try to alter the protocol to his own advantage. He could pretend to be someone else, introduce new messages in the protocol, delete existing messages, substitute one message for another, replay old messages, interrupt a communications channel, or alter stored information in a computer. These are called active attacks, because they require active intervention. The form of these attacks depends on the network.
 
+# COMMUNICATIONS USING PUBLIC-KEY CRYPTOGRAPHY
+In public key cryptography system there are two keys one is public which can be shared with anyone who wants to encrypt the message and the other one is private which is only known to the person intented to decrupt the message encrypted with the public key . 
+In most practical implementations public-key cryptography is used to secure and distribute session keys; those session keys are used with symmetric algorithms to secure message traffic. This is sometimes called a hybrid cryptosystem.
+# DIGITAL SIGNATURES
+
