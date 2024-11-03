@@ -30,5 +30,19 @@ Alternatively, an attacker could try to alter the protocol to his own advantage.
 # COMMUNICATIONS USING PUBLIC-KEY CRYPTOGRAPHY
 In public key cryptography system there are two keys one is public which can be shared with anyone who wants to encrypt the message and the other one is private which is only known to the person intented to decrupt the message encrypted with the public key . 
 In most practical implementations public-key cryptography is used to secure and distribute session keys; those session keys are used with symmetric algorithms to secure message traffic. This is sometimes called a hybrid cryptosystem.
-# DIGITAL SIGNATURES
+# Digital signature 
+Key Concepts of Digital Signatures
+* Authentication: Digital signatures verify that the sender of a message is genuine. Only the holder of the private key associated with the signature can create a valid signature, making it possible to authenticate the sender’s identity.
 
+* Data Integrity: Digital signatures provide assurance that the content has not been altered since it was signed. If the data changes after signing, the signature verification will fail, alerting the recipient to potential tampering.
+
+* Non-repudiation: Once a document or transaction is signed, the signer cannot deny their involvement. This is crucial for legal, financial, and official documents, as it provides evidence of the sender’s commitment to the contents.
+
+# How Digital Signatures Work
+Digital signatures rely on public-key cryptography, particularly a pair of keys: a private key for signing and a public key for verification. The process typically involves the following steps:
+
+Hashing: The message or document is hashed using a secure hashing algorithm (e.g., SHA-256) to create a unique fixed-size hash value. This hash represents the document in a compact form.
+
+Signing: The signer uses their private key to encrypt the hash, creating the digital signature. This signature is unique to both the signer and the specific document or transaction.
+
+Verification: The recipient uses the signer’s public key to decrypt the digital signature, recovering the hash. They then hash the original document themselves and compare it to the decrypted hash. If the two match, the signature is valid, confirming both authenticity and integrity.
