@@ -46,3 +46,9 @@ Hashing: The message or document is hashed using a secure hashing algorithm (e.g
 Signing: The signer uses their private key to encrypt the hash, creating the digital signature. This signature is unique to both the signer and the specific document or transaction.
 
 Verification: The recipient uses the signer’s public key to decrypt the digital signature, recovering the hash. They then hash the original document themselves and compare it to the decrypted hash. If the two match, the signature is valid, confirming both authenticity and integrity.
+
+# RANDOM AND PSEUDO-RANDOM-SEQUENCE GENERATION
+In essence, a computer, as a finite-state machine, has a limited number of possible states and operates deterministically—its output is entirely defined by its inputs and current state. This means that any random-number generator on a computer will eventually repeat itself (periodicity), which makes it predictable over time. Since predictability contradicts the idea of true randomness, a computer alone cannot generate genuinely random numbers. True randomness requires input from a truly random, external source (such as physical noise), which a computer cannot internally produce. Thus, without an external random input, computer-generated "random" numbers are inherently pseudo-random, not truly random.
+Cryptographically Secure Pseudo-Random Sequences
+For a sequence to be cryptographically secure pseudo-random, it must be be computationally infeasible to predict what the next random bit will be, given complete knowledge of the algorithm or hardware generating the sequence and all of the previous bits in the stream.
+
