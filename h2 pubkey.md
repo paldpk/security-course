@@ -52,3 +52,5 @@ In essence, a computer, as a finite-state machine, has a limited number of possi
 Cryptographically Secure Pseudo-Random Sequences
 For a sequence to be cryptographically secure pseudo-random, it must be be computationally infeasible to predict what the next random bit will be, given complete knowledge of the algorithm or hardware generating the sequence and all of the previous bits in the stream.
 
+A. How i used public key
+
