@@ -52,5 +52,12 @@ In essence, a computer, as a finite-state machine, has a limited number of possi
 Cryptographically Secure Pseudo-Random Sequences
 For a sequence to be cryptographically secure pseudo-random, it must be be computationally infeasible to predict what the next random bit will be, given complete knowledge of the algorithm or hardware generating the sequence and all of the previous bits in the stream.
 
-A. How i used public key
+a) Pubkey today.
+WhatsApp's end-to-end encryption (E2EE) protects messages, media, and group chats by using a cryptographic system to secure data in transit.
+Asymmetric cryptography: Each user generates a public-private key pair. The public key encrypts messages, and the private key decrypts them
+Source : https://www.businesstoday.in/latest/story/how-does-whatsapp-end-to-end-encryption-work-156881-2019-01-08
+![image](https://github.com/user-attachments/assets/8e7c709a-8821-4325-8b3e-6f6679b63ecf)
+
+
+
 
