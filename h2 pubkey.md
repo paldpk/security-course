@@ -57,7 +57,7 @@ a) Pubkey today.
 WhatsApp's end-to-end encryption (E2EE) protects messages, media, and group chats by using a cryptographic system to secure data in transit.
 Asymmetric cryptography: Each user generates a public-private key pair. The public key encrypts messages, and the private key decrypts them
 Source : https://www.businesstoday.in/latest/story/how-does-whatsapp-end-to-end-encryption-work-156881-2019-01-08
-![image](https://github.com/user-attachments/assets/8e7c709a-8821-4325-8b3e-6f6679b63ecf)
+![image](https://github.com/user-attachments/assets/8e7c709a-8821-4325-8b3e-6f6679b63ecf) and CHAT GPT for answer rewrite
 
 b)
 
@@ -80,7 +80,7 @@ Since only the sender’s public key can decrypt a signature created with their 
 
 The  flags that make this happens are  --encrypt Encrypt the message --sign signs the message using sender private key --output encrypted.pgp  saves the encrypted content to the file, receiver decrypt the message usng gpg --decrypt encrypted.pgp  and sender public key do decrypt the hash of signature for sender verification. 
 
-Sources :https://terokarvinen.com/2023/pgp-encrypt-sign-verify/ 
+Sources :https://terokarvinen.com/2023/pgp-encrypt-sign-verify/  and CHAT GPT for answer rewrite
 
 F) Password management
 I use lastpass for my password management It allows for quick search and password generation easily and this is available in all devices mac windows mobile ios and android. 
@@ -100,7 +100,7 @@ For individuals who don’t use password managers, several types of security vul
 *  Account Recovery Exploits
 * Password Reset Link Exploits
 * Data Breach Exposure
-Sources: google.com and lastpass
+Sources: google.com and lastpass and CHAT GPT for answer rewrite
 
 
 g)  Sources are added after each answer 
