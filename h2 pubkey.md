@@ -1,3 +1,4 @@
+Source : https://terokarvinen.com/trust-to-blockchain/#homework
 # Protocol Building Blocks
 A protocol is a series of steps, involving two or more parties, designed to accomplish a task.
 characteristics Of protocol:
