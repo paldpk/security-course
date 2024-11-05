@@ -79,7 +79,29 @@ Since only the sender’s public key can decrypt a signature created with their 
 
 The  flags that make this happens are  --encrypt Encrypt the message --sign signs the message using sender private key --output encrypted.pgp  saves the encrypted content to the file, receiver decrypt the message usng gpg --decrypt encrypted.pgp  and sender public key do decrypt the hash of signature for sender verification. 
 
-Sources :https://terokarvinen.com/2023/pgp-encrypt-sign-verify/
+Sources :https://terokarvinen.com/2023/pgp-encrypt-sign-verify/ 
+
+F) Password management
+I use lastpass for my password management It allows for quick search and password generation easily and this is available in all devices mac windows mobile ios and android. 
+Features includes 
+<img width="642" alt="image" src="https://github.com/user-attachments/assets/e184624e-5761-4e14-a97a-ef1976a9c648">
+
+<img width="377" alt="image" src="https://github.com/user-attachments/assets/83e39781-5f65-404d-8db8-99fc4232426b">
+
+For individuals who don’t use password managers, several types of security vulnerabilities and attacks become more likely. Password managers help create, store, and manage strong and unique passwords, which makes accounts more resistant to various attacks. Without a password manager, users are more vulnerable to the following types of attacks:
+*  Password Reuse Attacks
+*  Phishing Attacks
+*  Weak Passwords and Brute-Force Attacks
+*  Dictionary Attacks
+*  Social Engineering Attacks
+*  Keystroke Logging (Keylogging)
+*  Shoulder Surfing and Visual Hacking
+*  Account Recovery Exploits
+* Password Reset Link Exploits
+* Data Breach Exposure
+
+
+
 
 
 
