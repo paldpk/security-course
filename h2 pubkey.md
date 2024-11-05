@@ -99,7 +99,7 @@ For individuals who don’t use password managers, several types of security vul
 *  Account Recovery Exploits
 * Password Reset Link Exploits
 * Data Breach Exposure
-
+Sources: google.com and lastpass
 
 
 
