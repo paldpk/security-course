@@ -103,7 +103,7 @@ For individuals who don’t use password managers, several types of security vul
 Sources: google.com and lastpass
 
 
-
+g)  Sources are added after each answer 
 
 
 
