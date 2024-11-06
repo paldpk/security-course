@@ -69,6 +69,18 @@ key imported in alice folder
 <img width="721" alt="Screenshot 2024-11-06 at 5 22 02" src="https://github.com/user-attachments/assets/521b3a1b-598d-42d1-ab18-0dc890484f46">
 After signing the deepaks key
 <img width="681" alt="Screenshot 2024-11-06 at 5 26 04" src="https://github.com/user-attachments/assets/955de3e6-e527-4332-8784-311c2ba3026f">
+Finger print for deepak shows alice as unknwon we wil sign in the next step
+<img width="568" alt="Screenshot 2024-11-06 at 5 51 42" src="https://github.com/user-attachments/assets/83844f21-8e99-4065-b348-bbc56762b121">
+After signing full trust is established between both parties
+<img width="578" alt="Screenshot 2024-11-06 at 5 52 44" src="https://github.com/user-attachments/assets/3aadd0c0-2462-414d-934c-21924051281a">
+
+Message encrypted using private key of alice
+<img width="708" alt="Screenshot 2024-11-06 at 5 58 39" src="https://github.com/user-attachments/assets/c60ac9ba-4b77-407c-bc3a-4878cfd3d1b3">
+<img width="601" alt="Screenshot 2024-11-06 at 5 59 24" src="https://github.com/user-attachments/assets/998b108b-7b99-497b-9828-3cc96fb4a599">
+
+Receiver decrypts the message
+<img width="701" alt="Screenshot 2024-11-06 at 6 00 48" src="https://github.com/user-attachments/assets/5914426f-5857-41ea-a830-51e2af53d454">
+
 
 
 
