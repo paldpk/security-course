@@ -104,9 +104,17 @@ Verify the signature to ensure the message's authenticity and integrity.
 
 # encrypting a message
 opmsg -e -r recipient_name -m "Your secret message here" -o encrypted_message.opmsg
+-e tells opmsg to encrypt the message.
+-r recipient_name specifies the intended recipient.
+-m "Your secret message here" is the plaintext message to encrypt.
+-o encrypted_message.opmsg specifies the output file.
 
 # decrypting a message 
 opmsg -d -i encrypted_message.opmsg -o decrypted_message.txt
+-d indicates decryption.
+-i encrypted_message.opmsg is the encrypted message file to decrypt.
+-o decrypted_message.txt is the file to save the decrypted content.
+
 
 
 d) # Explain PGP
