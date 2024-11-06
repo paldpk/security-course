@@ -81,14 +81,32 @@ Message encrypted using private key of alice
 Receiver decrypts the message
 <img width="701" alt="Screenshot 2024-11-06 at 6 00 48" src="https://github.com/user-attachments/assets/5914426f-5857-41ea-a830-51e2af53d454">
 
-
-
-
+source :https://terokarvinen.com/2023/pgp-encrypt-sign-verify/
 
 C)
+opmsg operates as a lightweight encryption and signing tool designed for simplicity, modern cryptography, and secure message exchange without the extensive key management features typical of tools like gpg. Here’s a breakdown of how opmsg works:
 
+opmsg focuses on using temporary or session-based keys, rather than managing a long-term keyring.
+Each message is typically encrypted and signed with ephemeral (temporary) keys, which can be derived from a passphrase or password. This reduces the risk associated with long-term key storage.
+opmsg leverages elliptic-curve cryptography (ECC), specifically curve25519, which is known for its strong security and efficiency.
+By using modern encryption standards, opmsg can achieve secure encryption and signing without the overhead of more complex and older protocols.
+The sender uses opmsg to encrypt a message, potentially supplying a passphrase or password to derive the key.
+opmsg then:
+Encrypts the message content.
+Signs the message with a derived ephemeral key.
+Combines the encrypted content and signature into a single self-contained file.
+The resulting encrypted message can then be sent to the recipient.
+Decrypting and Verifying a Message:
+The recipient receives the encrypted file and uses opmsg to decrypt and verify it.
+By supplying the correct passphrase or password, the recipient can:
+Decrypt the content to retrieve the original message.
+Verify the signature to ensure the message's authenticity and integrity.
 
+# encrypting a message
+opmsg -e -r recipient_name -m "Your secret message here" -o encrypted_message.opmsg
 
+# decrypting a message 
+opmsg -d -i encrypted_message.opmsg -o decrypted_message.txt
 
 
 d) # Explain PGP
