@@ -59,10 +59,22 @@ Asymmetric cryptography: Each user generates a public-private key pair. The publ
 Source : https://www.businesstoday.in/latest/story/how-does-whatsapp-end-to-end-encryption-work-156881-2019-01-08
 ![image](https://github.com/user-attachments/assets/8e7c709a-8821-4325-8b3e-6f6679b63ecf) and CHAT GPT for answer rewrite
 
-b)
+b) Messaging using PGP
+Key generation ![image](https://github.com/user-attachments/assets/68e75f05-af6d-400d-b0aa-cd9edf3c272b)
+
+<img width="649" alt="Screenshot 2024-11-06 at 5 17 40" src="https://github.com/user-attachments/assets/7db41ddd-0a2e-4788-979a-f2ddf7fe3c6d">
+alice key
+<img width="542" alt="Screenshot 2024-11-06 at 5 20 24" src="https://github.com/user-attachments/assets/256cee35-f8d4-4da0-98ac-00dfb36f878c">
+key imported in alice folder
+<img width="721" alt="Screenshot 2024-11-06 at 5 22 02" src="https://github.com/user-attachments/assets/521b3a1b-598d-42d1-ab18-0dc890484f46">
+After signing the deepaks key
+<img width="681" alt="Screenshot 2024-11-06 at 5 26 04" src="https://github.com/user-attachments/assets/955de3e6-e527-4332-8784-311c2ba3026f">
 
 
-c)
+
+
+C)
+
 
 
 
