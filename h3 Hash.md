@@ -45,6 +45,19 @@ hash of the file after change
 
 hash of the file changed although the length of the hash remains the same. 
 
+# Billion dollar busywork.
+
+<img width="682" alt="Screenshot 2024-11-13 at 4 31 42" src="https://github.com/user-attachments/assets/245d4cd9-2ddd-4192-b01e-5d93d32f1ca6">
+found after like 40 tries
+<img width="592" alt="Screenshot 2024-11-13 at 4 32 08" src="https://github.com/user-attachments/assets/19a9c980-180f-4da9-889a-aaa7ed705e6a">
+
+Sources :
+Chat gpt for getting ideas around some topic and getting to know the linux commnds
+https://terokarvinen.com/trust-to-blockchain/#h3-hash
+https://terokarvinen.com/2022/cracking-passwords-with-hashcat/
+Applied Cryptography: Chapter 2 - Protocol Building Blocks: subchapters "2.3 One-way Fuctions" and "2.4 One-Way Hash Functions".
+
+
 
 
 
