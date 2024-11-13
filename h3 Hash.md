@@ -34,6 +34,18 @@ use the host sytem to make  the process faster, virtual machine is a bit slower 
 * Avoid Reusing Passwords
 * Use Multi-Factor Authentication (MFA)
 
+# Compare hash. 
+
+<img width="480" alt="Screenshot 2024-11-13 at 4 07 39" src="https://github.com/user-attachments/assets/ae4c6976-f805-4ae9-b79e-b0d11c59e9b1">
+<img width="754" alt="Screenshot 2024-11-13 at 4 10 35" src="https://github.com/user-attachments/assets/d49af3a1-308a-4725-b5f4-f4af89026705">
+Changing the file 
+<img width="760" alt="Screenshot 2024-11-13 at 4 11 34" src="https://github.com/user-attachments/assets/41ef910e-06a7-414f-b29d-137140d9fc76">
+hash of the file after change
+<img width="748" alt="Screenshot 2024-11-13 at 4 12 16" src="https://github.com/user-attachments/assets/15180fb9-d928-491e-893e-ef978bd024a4">
+
+hash of the file changed although the length of the hash remains the same. 
+
+
 
 
 
